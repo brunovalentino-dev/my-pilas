@@ -1,0 +1,20 @@
+/* Disposição das regras CSS */
+/* -------------------------
+   1 - Posicionamento
+   2 - Display e Box-model
+   3 - Cores
+   4 - Texto
+   5 - Outros
+/* ------------------------- */
+
+html {
+	font-size: 62.5%; /* Referência - 10 px */
+}
+
+body {
+	margin: 0;
+	
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 1.4rem;	
+}
+
